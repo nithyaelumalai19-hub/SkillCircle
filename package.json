@@ -1,0 +1,12 @@
+{
+  "name": "skillcircle",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "node backend/dist/server.js",
+    "start": "node backend/dist/server.js",
+    "backend:dev": "node backend/dist/server.js"
+  },
+  "dependencies": {},
+  "devDependencies": {}
+}
